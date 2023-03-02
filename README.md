@@ -2,7 +2,6 @@
 👋 **About Me**
 
 - 🔭 主要使用: Python，shell
-- 👯 About me: 运维，云
 - ⚡ skill:Python\Shell\Docker\kubernetes\Linux&windows\Openstart
 - 🌐 Languages: 简体中文, 繁體中文, 日本語
 
